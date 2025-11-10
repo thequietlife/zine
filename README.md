@@ -6,4 +6,6 @@
 
 ______
 
+## Resources
+
 [How To Fold A Zine](https://youtu.be/keX3nBEcw2Y?si=6WdaSGIG1NNDVAvt)
